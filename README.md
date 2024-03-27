@@ -11,7 +11,7 @@ Bem-vindo ao repositório do site da Vinheira Agnello! Somos uma empresa especia
 - **Contato**: Precisa entrar em contato? Encontre todas as informações de contato necessárias aqui.
 
 ## Instruções de Acesso 🛠️
-1. Visite [este link](link_do_seu_github_pages) para acessar o site hospedado no GitHub Pages.
+1. Visite https://eliseufesantos.github.io/vinhariaSite/ para acessar o site hospedado no GitHub Pages.
 2. Navegue pelas diferentes páginas usando os links no cabeçalho do site.
    
 ## Recursos Adicionais 🎨
