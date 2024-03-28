@@ -7,7 +7,7 @@ Bem-vindo ao repositório do site da Vinheira Agnello! Esta é uma empresa espec
 - **Home**: Comece sua jornada aqui, onde você encontrará uma introdução à Vinheira Agnello.
 - **Loja**: Explore nossa seleção de vinhos e produtos relacionados em nossa página de compras.
 - **Aplicativo**: Descubra nosso aplicativo móvel disponível para Android e iOS, onde você pode explorar nossos produtos de forma ainda mais conveniente.
-- **Sobre Nós**: Conheça a história da Vinharia Agnello, como cuidamos do armazenamento de nossos vinhos e nosso compromisso com o atendimento ao cliente.
+- **Informações**: Conheça a história da Vinharia Agnello, como cuidamos do armazenamento de nossos vinhos e nosso compromisso com o atendimento ao cliente.
 - **Contato**: Precisa entrar em contato? Encontre todas as informações de contato necessárias aqui.
 
 ## Instruções de Acesso 🛠️
