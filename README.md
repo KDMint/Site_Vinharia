@@ -1,6 +1,6 @@
-# Vinheira Agnello 🍷
+# Vinheria Agnello 🍷
 
-Bem-vindo ao repositório do site da Vinheira Agnello! Esta é uma empresa especializada em vinhos finos e produtos relacionados. Nosso site inclui várias páginas para ajudar você a explorar nosso mundo de vinhos.
+Bem-vindo ao repositório do site da Vinheria Agnello! Esta é uma empresa especializada em vinhos finos e produtos relacionados. Nosso site inclui várias páginas para ajudar você a explorar nosso mundo de vinhos.
 
 ## Páginas 📑
 
